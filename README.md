@@ -1,4 +1,4 @@
-## Hi there 👋
+## Heyy Im Dakara 🌹🎩
 
 <!--
 **Wish-Dakara/Wish-Dakara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+🎩 I’m currently learning **Godot**, **Unity**, and alot more🔥🔥
+
+![shhhh](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHYxdm1zbjZkOWd6aTlidG85cG1vZmlha2Q4OGd2OGN3N3R5NnhxbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HidxJODnXSSZxYlkwy/giphy.gif)
